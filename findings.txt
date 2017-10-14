@@ -1,0 +1,6 @@
+	Searching the area of Oklahoma reveals that the number of years used in calculations is a large factor in deciding the probability of the next earthquake.
+When using data from 100 years back, the median time until the next earthquake was 0.007 years (roughly 2.5 days), but when using data from only the past 3 years,
+when quakes in Oklahoma suddenly skyrocketed, the median time until the next earthquake dropped to 0.0002 years (roughly 2 hours). Furthermore, the probability of 
+an earthquake occurring within the next day jumped from 23.7% to 99.96%. This is likely explained by the spike in earthquakes inside of Oklahoma in recent years 
+caused by increased hydraulic fracturing efforts. To accurately calculate the chance of an earthquake occurring, the data must go back far enough to gather significant 
+amounts of data, but if too much data is used, current trends might become diluted, and the predictions may actually become less accurate.
